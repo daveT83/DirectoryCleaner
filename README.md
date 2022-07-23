@@ -1,2 +1,2 @@
 # DirectoryCleaner
-Automatically cleanup files from a directory.
+A simple dll to automatically cleanup a directory and/or it's subdirectories/
