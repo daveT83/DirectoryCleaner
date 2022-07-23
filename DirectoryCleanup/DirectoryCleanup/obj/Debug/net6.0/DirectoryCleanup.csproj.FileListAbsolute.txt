@@ -1,0 +1,12 @@
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\bin\Debug\net6.0\DirectoryCleanup.deps.json
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\bin\Debug\net6.0\DirectoryCleanup.dll
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\bin\Debug\net6.0\DirectoryCleanup.pdb
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\obj\Debug\net6.0\DirectoryCleanup.csproj.AssemblyReference.cache
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\obj\Debug\net6.0\DirectoryCleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\obj\Debug\net6.0\DirectoryCleanup.AssemblyInfoInputs.cache
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\obj\Debug\net6.0\DirectoryCleanup.AssemblyInfo.cs
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\obj\Debug\net6.0\DirectoryCleanup.csproj.CoreCompileInputs.cache
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\obj\Debug\net6.0\DirectoryCleanup.dll
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\obj\Debug\net6.0\refint\DirectoryCleanup.dll
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\obj\Debug\net6.0\DirectoryCleanup.pdb
+C:\Users\davet\source\repos\DirectoryCleanup\DirectoryCleanup\obj\Debug\net6.0\ref\DirectoryCleanup.dll
